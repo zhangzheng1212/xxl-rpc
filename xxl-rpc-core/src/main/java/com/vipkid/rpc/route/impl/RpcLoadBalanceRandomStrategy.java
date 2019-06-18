@@ -10,7 +10,7 @@ import java.util.TreeSet;
  *
  * @author xuxueli 2018-12-04
  */
-public class XxlRpcLoadBalanceRandomStrategy extends XxlRpcLoadBalance {
+public class RpcLoadBalanceRandomStrategy extends XxlRpcLoadBalance {
 
     private Random random = new Random();
 

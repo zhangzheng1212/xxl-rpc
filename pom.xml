@@ -12,7 +12,7 @@
 
 	<modules>
 		<module>xxl-rpc-core</module>
-<!--		<module>xxl-rpc-samples</module>-->
+		<module>xxl-rpc-samples</module>
     </modules>
 
 	<properties>
